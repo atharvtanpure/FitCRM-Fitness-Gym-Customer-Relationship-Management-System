@@ -51,7 +51,7 @@ The project leverages Salesforce **Sales Cloud, Flow Automation, and Dashboards*
 
 ## ⚡ Automation
 - **Flow/Process Builder**
-  - Auto-send renewal reminder **7 days before expiry**.
+  - Auto-send renewal reminder **3 days before expiry**.
   - Award loyalty points when a referral converts into a new member.
   - Assign new members to trainers automatically.
 
